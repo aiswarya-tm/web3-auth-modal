@@ -1,11 +1,11 @@
 ## web3Auth plug-n-play demo
 
 Install the packages using
-### `yarn install --ignore-engines`
+### `npm i`
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
