@@ -27,6 +27,7 @@ function App() {
             loginMethodsOrder: ['google','facebook','github'],
             defaultLanguage: 'en',
           },
+          web3AuthNetwork:"testnet",
           clientId: 'BB0tO4Gm66aD7WlJfnmb3jSHqbMPrIgZt_CcxJLklEW6hHmF0yZysLizIPfpa9I19IWApojeRbXZfw7E-C9r4tA', // Get your Client ID from Web3Auth Dashboard
           chainConfig: {
             chainNamespace: 'eip155',
@@ -39,6 +40,7 @@ function App() {
             mfaLevel: "default", // Pass on the mfa level of your choice: default, optional, mandatory, none
           },
           adapterSettings: {
+            network: "testnet",
             whiteLabel: {
               name: "Over Watch",
               logoLight: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Overwatch_circle_logo.svg/2048px-Overwatch_circle_logo.svg.png",

@@ -12,3 +12,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 You can login using your google accound and get a wallet connected to your SSO.
 
+To github
+
+`npm run deploy`
+
+Locally
+
+`npm run build`
+`serve -s build`
+
