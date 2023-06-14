@@ -27,7 +27,7 @@ function App() {
             loginMethodsOrder: ['google','facebook','github'],
             defaultLanguage: 'en',
           },
-          clientId: 'BI3e6LQ5CC17mr7GdN4Wm5F0sF79ksnaI3Du7Q8Hk4cRn8tSwPitVscGyJOjT2LULVSSPGnhvTKD7hMRWDcgupM', // Get your Client ID from Web3Auth Dashboard
+          clientId: 'BB0tO4Gm66aD7WlJfnmb3jSHqbMPrIgZt_CcxJLklEW6hHmF0yZysLizIPfpa9I19IWApojeRbXZfw7E-C9r4tA', // Get your Client ID from Web3Auth Dashboard
           chainConfig: {
             chainNamespace: 'eip155',
             chainId: '0x5',
